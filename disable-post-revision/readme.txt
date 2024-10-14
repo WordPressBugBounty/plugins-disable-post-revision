@@ -12,35 +12,30 @@ Light weight plugin to disable post revisions for selected post types to reduce 
 
 == Description ==
 
-But default WordPress use post revisions to save each post revisions in your database. If you care about the server and database size, these post revisions may be a headache.
-If you feel that you don't want post revision feature for a post type you can't simply disable it from settings page. But with this plugin it is very easy.
+WordPress uses post revisions by default to save each post revision in your database. If you're concerned about server and database size, these post revisions can be a burden.
 
-= What is Disable Post Revisions? =
+While you can't simply disable the post revision feature for a specific post type from the settings page, this plugin makes it easy to do so.
 
-*Disabling unwanted post revisions in WordPress should be easy. With this plugin, it finally is.*
+= What is Disable Post Revision? =
 
+*Disabling unwanted post revisions in WordPress should be straightforward. This plugin makes it a simple process.*
 
-> #### Disable Post Revisions - Features
+> ### Disable Post Revision - Features
 >
-> - You can disable post revisions for all available post types including Post, Page etc.<br />
-> - **Reducing database load**<br />
-> - **Reducing server load while editing a post**<br />
-> - **Translation ready!**<br />
-> - Super Light weight.<br />
-> - Completely free to use with lifetime updates.<br />
-> - Follows best WordPress coding standards.<br />
-> - Of course, available in [GitHub](https://github.com/joel-james/disable-post-revision)<br />
+> - Disable post revisions for all available post types, including Posts and Pages<br />
+> - Reduce database load<br />
+> - Reduce server load while editing a post<br />
+> - Translation-ready<br />
+> - Extremely lightweight<br />
+> - Adheres to WordPress coding standards<br />
+> - Available on [GitHub](https://github.com/joel-james/disable-post-revision)<br />
 >
 > [Installation](https://wordpress.org/plugins/disable-post-revision/installation/) | [Support](http://wordpress.org/support/plugin/disable-post-revision/) | [Screenshots](https://wordpress.org/plugins/disable-post-revision/screenshots/)
 
 
-**Bug Reports**
-
-Bug reports for are always welcome. [Report here](https://thefoxe.com/bug-report/).
-
 **WordPress Post Revision - [More Details](https://codex.wordpress.org/Revisions)**
 
-If you are confused with what is post revision, [refer this page](https://codex.wordpress.org/Revisions) to know more about it.
+If you're unsure about what post revisions are, please [refer to this page](https://codex.wordpress.org/Revisions) for more information.
 
 
 == Installation ==
@@ -58,29 +53,22 @@ If you are confused with what is post revision, [refer this page](https://codex.
 Please feel free to [open a support request](http://wordpress.org/support/plugin/disable-post-revision/).
 
 = Missing something? =
-If you would like to have an additional feature for this plugin, [let me know](http://thefoxe.com/support/)
+If you'd like to request an additional feature for this plugin, please [let me know](https://duckdev.com/contact/).
 
 == Frequently Asked Questions ==
 
 = What is the use of Disable Post Revision? =
 
-This simple plugin helps you to reduce your database load by disabling unwanted post revision data.
+This simple plugin helps reduce your database load by disabling unnecessary post revision data.
 
-= Wait a sec. What is post revision? =
+= What is a post revision? =
 
 Ok, here is the [link](https://codex.wordpress.org/Revisions).
 
 
-== Other Notes ==
-
-= Bug Reports =
-
-Bug reports are always welcome. [Report here](https://thefoxe.com/bug-report/).
-
-
 == Screenshots ==
 
-1. **Settings** - Select post types to disable post revisions. You can select multiple.
+1. **Settings** - Select post types to disable post revisions. You can select multiple types.
 
 
 == Changelog ==
